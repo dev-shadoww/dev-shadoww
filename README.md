@@ -60,8 +60,8 @@
 
 ## 📊 Github stats
 
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dev-shadoww&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=true&icon_color=F8D866" height="192px"/></a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dev-shadoww&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=true&icon_color=F8D866" height="192px"/></a><br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shadoww&langs_count=8&layout=compact&theme=gruvbox&hide_border=true" height="192px"/></a>
   <br/>
 </div>
