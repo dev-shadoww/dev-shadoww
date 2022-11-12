@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCrqYIgvMBwuVK-d8z9MIDsw">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrqYIgvMBwuVK-d8z9MIDsw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/DevProTips">
+  <a href="https://www.youtube.com/channel/UCrqYIgvMBwuVK-d8z9MIDsw">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCrqYIgvMBwuVK-d8z9MIDsw?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
   <a href="https://github.com/dev-shadoww?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dev-shadoww?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
