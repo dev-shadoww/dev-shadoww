@@ -11,8 +11,6 @@
   </a>
 </div>
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCrqYIgvMBwuVK-d8z9MIDsw?logo=youtube&style=for-the-badge)
-
 <p align="center">
 
   <a href="https://www.youtube.com/channel/UCrqYIgvMBwuVK-d8z9MIDsw">
