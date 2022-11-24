@@ -11,7 +11,10 @@
   </a>
 </div>
 
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCrqYIgvMBwuVK-d8z9MIDsw?logo=youtube&style=for-the-badge)
+
 <p align="center">
+
   <a href="https://www.youtube.com/channel/UCrqYIgvMBwuVK-d8z9MIDsw">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCrqYIgvMBwuVK-d8z9MIDsw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
   <a href="https://www.youtube.com/channel/UCrqYIgvMBwuVK-d8z9MIDsw">
@@ -53,15 +56,12 @@
 ## 🔥 Streak stats
 
 <p align="center">
-  <a href="https://github.com/dev-shadoww/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats"  src="https://streak-stats.demolab.com/?user=dev-shadoww&theme=dark&hide_border=true"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=dev-shadoww&theme=gruvbox&hide_border=true" alt="GitHub Streak"></img>
 </p>
 
 ## 📊 Github stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dev-shadoww&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox&hide_border=true&icon_color=F8D866" height="192px"/></a><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shadoww&langs_count=8&layout=compact&theme=gruvbox&hide_border=true" height="192px"/></a>
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-shadoww&show_icons=true&theme=gruvbox&hide_border=true" alt="dev-shadoww's GitHub stats"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shadoww&layout=compact&show_icons=true&theme=gruvbox&hide_border=true" alt="Top Langs"></img>
 </div>
