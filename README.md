@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="resources/hello_world.gif" width="600"/><br><br>
+  <img src="hello_world.gif" width="600"/><br><br>
   <a href="https://www.linkedin.com/in/suraj-kareppagol-004463248/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
